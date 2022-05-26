@@ -4,8 +4,6 @@ The **Skia Captcha Generator** is a simple way to generate a captcha based on th
 
 By using the SkiaSharp libary, some complications with image processing by other operating systems such as Debian are avoided.
 
-![captcha](https://github.com/timfvb/Skia-Captcha-Generator/blob/main/mycaptcha.png?raw=true)
-
 ![functionbanner](https://github.com/timfvb/Skia-Captcha-Generator/blob/main/functionbanner.png?raw=true)
 
 ## Usage
@@ -23,6 +21,9 @@ var generator = new Captcha(word, Level.Strong, new SKSize(800, 300));
 // Generate a captcha saved in filesystem
 generator.Generate("mycaptcha.png");
 ```
+## Example
+
+![captcha](https://github.com/timfvb/Skia-Captcha-Generator/blob/main/mycaptcha.png?raw=true)
 
 ## Important
 To use the Skia Captcha Generator library, you need the SkiaSharp package.
