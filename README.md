@@ -4,6 +4,8 @@ The **Skia Captcha Generator** is a simple way to generate a captcha based on th
 
 By using the SkiaSharp libary, some complications with image processing by other operating systems such as Debian are avoided.
 
+![alt text](https://github.com/timfvb/Skia-Captcha-Generator/blob/main/mycaptcha.png?raw=true)
+
 ## Usage
 
 ```csharp
