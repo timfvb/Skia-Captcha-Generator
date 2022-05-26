@@ -5,7 +5,7 @@ namespace SkiaCaptchaGenerator.Test;
 internal class Program
 {
     private static void Main() => new Program().CreateCaptcha();
-    https://www.nuget.org/packages/SkiaSharp
+    
     private void CreateCaptcha()
     {
         // Generate a random word
