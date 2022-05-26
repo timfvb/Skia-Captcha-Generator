@@ -6,6 +6,8 @@ By using the SkiaSharp libary, some complications with image processing by other
 
 ![captcha](https://github.com/timfvb/Skia-Captcha-Generator/blob/main/mycaptcha.png?raw=true)
 
+![functionbanner](https://github.com/timfvb/Skia-Captcha-Generator/blob/main/functionbanner.png?raw=true)
+
 ## Usage
 
 ```csharp
